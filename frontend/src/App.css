@@ -1,0 +1,12 @@
+.app {
+  font-weight: 300;
+}
+
+.btn {
+  background-color: aquamarine;
+  outline: none;
+  border: none;
+  color: #fff;
+  padding: 8px 10px;
+  border-radius:5px;
+}

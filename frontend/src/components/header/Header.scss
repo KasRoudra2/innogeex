@@ -1,0 +1,14 @@
+.navlink{
+    padding-left: 40px;
+    text-decoration: none;
+    color: #fff;
+    &:hover{
+        color: rgb(228, 248, 51);
+    }
+}
+
+.mode {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+}
